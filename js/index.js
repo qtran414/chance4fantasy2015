@@ -2,6 +2,7 @@
 
 var target_date = new Date("Aug 22, 2015").getTime();
 
+
 var days, hours, minutes, seconds;
 var countdown = document.getElementById("countdown")
 var daydisplay = document.getElementById("days")
